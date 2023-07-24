@@ -1,2 +1,2 @@
-# CS231N-assigment
-CS231N assigment1 and 2
+# CS231N-assigment-2023
+CS231N assigment-2023
